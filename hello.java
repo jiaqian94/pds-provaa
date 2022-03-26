@@ -3,6 +3,6 @@ public class hello {
         System.out.println("Hola");
         //jiaqian modification
         //jiaqian modification at line 5
-        System.out.println("hello world by jq");
+
     }
 }
